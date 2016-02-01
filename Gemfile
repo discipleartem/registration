@@ -26,6 +26,7 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'bootstrap-sass'
 
+gem 'bcrypt-ruby'
 # bundle exec rake doc:rails generates the API under doc/api.
 #gem 'sdoc', '~> 0.4.0', group: :doc
 

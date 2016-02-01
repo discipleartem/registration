@@ -1,6 +1,6 @@
 == README
 
-Building demo blog by railstutorial.ru  Chapter 5 (Bootstrap)
+Building demo blog by railstutorial.ru  till Chapter 5 (registration)
 
 http://railstutorial.ru/chapters/4_0/filling-in-the-layout#top
 
