@@ -14,6 +14,7 @@ http://railstutorial.ru/chapters/4_0/sign-up#top
 
 * Deployment from http://railstutorial.ru/chapters/4_0/a-demo-app#top
 
+- heroku run rake db:migrate --app mighty-temple-42543
 - do rake assets:precompile for working styles
 
 
