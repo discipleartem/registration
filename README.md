@@ -1,8 +1,8 @@
 == README
 
-Building demo blog by railstutorial.ru  till Chapter 5 (registration)
+Building demo blog by railstutorial.ru  from Chapter 5 (registration) till Chapter 8
 
-http://railstutorial.ru/chapters/4_0/filling-in-the-layout#top
+http://railstutorial.ru/chapters/4_0/sign-up#top
 
 * Ruby version 2.1.2
 
@@ -17,6 +17,6 @@ http://railstutorial.ru/chapters/4_0/filling-in-the-layout#top
 - do rake assets:precompile for working styles
 
 
-App at production - https://radiant-river-93014.herokuapp.com
+App at production - https://mighty-temple-42543.herokuapp.com
 
 
